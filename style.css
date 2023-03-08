@@ -1,0 +1,133 @@
+*{
+    margin: 0px;
+    padding: 2px;
+}
+.cont{
+    display: flex;
+    flex-direction: row;
+}
+.btn{
+    background-color: #fff;
+    border-radius: auto;
+    padding: 9px;
+    color: #000;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+    width:110px;
+    display: block;
+    }
+.num{
+    background-color: rgb(121, 120, 115);
+    border-radius: 10px;
+    padding: 2px;
+    margin: 5px;
+}
+.nav{
+    padding-bottom: 5px;
+    margin: 5px;
+}
+.text{
+    display: flex;
+    flex-direction: row;
+}
+.card{
+margin:5px;
+padding: 5px 5px 100px 5px;
+border-radius: 2px;
+height: 250px;
+width: 250px;
+border-width: 1px;
+border-style: solid;
+display: flex;
+flex-direction: column;
+}
+.img{
+    width: 90%;
+}
+.para{
+    padding: 10px;
+    font-family: sans-serif;
+}
+.para1{
+    padding: 10px;
+    font-family: sans-serif;
+}
+.att{
+    color: blue;
+    text-decoration: none;
+    padding: 10px;
+}
+.myform{
+    margin: auto;
+    border-radius: 2px;
+    height: 60%;
+    width: 100%;
+    padding: 10%;
+    border-width: 1px;
+    border-color: #000;
+    border-style: solid;
+}
+.button{
+    width: 150px;
+    height: 30px;
+    background-color: #1b219b;
+    color: white;
+    padding: 5px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: sans-serif;
+}
+.newbtn{
+    background-color: rgb(52, 52, 231);
+    color: #fff;
+    padding: 5px;
+    border-width: 1px;
+}
+.button1{
+    width: 80px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.button2{
+    width: 80px;
+    background-color: #e10000e0;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.form-control{
+    padding: 5px;
+    margin: 5px;
+    font-weight: 500;
+    display:block;
+}
+.error-message{
+    color: #cd0a0a;
+}
+
+.heading{
+    font-size: 30px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+.secondsection{
+    display: flex;
+flex-direction: row;
+}
+.thirdsection{
+    display: flex;
+flex-direction: row;
+}
+.list{
+    list-style-type: none;
+}
